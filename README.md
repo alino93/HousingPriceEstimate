@@ -13,8 +13,9 @@ Cite here: with editor
 ## Instructions
 - run main.py to see final results
 - Regression.py produces and compares different regression models for price estimation
-- googlenet_feature_extract.py extracts google Net two last FC layers for luxury level classification
+- googlenet_feature_extract.py extracts googleNet two last FC layers for luxury level classification
 - lux_level_classification.py classifies luxury levels of images using KNN and SVM methods
+- vgg_lux_level_classification.py classifies luxury levels of images using transfer learning and modified vgg16  
 - room_classifier.py classifies images to different categories of satellite, bathroom, bedroom, dining room, kitchen, living room, front view
 - data_process.py are used for moving and sorting images to the relevent folders 
 - text_data.xlsx contains meta data of the houses

@@ -4,7 +4,7 @@ Novel Housing Price Estimator
 <img src="https://user-images.githubusercontent.com/73147643/147277252-0a22b542-588c-4cee-bb75-1ebbc9d6f8b7.jpg" height="300" />
 
 ## Reference:
-Cite the pre-print paper: 
+Cite here: with editor 
 
 ## Example input data
 

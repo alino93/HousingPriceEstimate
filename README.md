@@ -20,6 +20,6 @@ Cite here: with editor
 - text_data.xlsx contains meta data of the houses
 
 
-## Access to our collected dataset and saved trained models
+## Access to our dataset and saved trained models
 You should ask permisson to get access to:
 https://drive.google.com/drive/folders/1kKHnRHu9LuhcKsWNuKFHtFZIAu741_Eg?usp=sharing

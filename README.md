@@ -18,3 +18,8 @@ Cite here: with editor
 - room_classifier.py classifies images to different categories of satellite, bathroom, bedroom, dining room, kitchen, living room, front view
 - data_process.py are used for moving and sorting images to the relevent folders 
 - text_data.xlsx contains meta data of the houses
+
+
+## Access to our collected dataset and saved trained models
+You should ask permisson to get access to:
+https://drive.google.com/drive/folders/1kKHnRHu9LuhcKsWNuKFHtFZIAu741_Eg?usp=sharing

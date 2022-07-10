@@ -4,7 +4,7 @@ Novel Housing Price Estimator
 <img src="https://user-images.githubusercontent.com/73147643/147277252-0a22b542-588c-4cee-bb75-1ebbc9d6f8b7.jpg" height="300" />
 
 ## Reference:
-Cite here: with editor 
+Cite here: Nouriani, A. and Lemke, L., 2022. Vision-based housing price estimation using interior, exterior & satellite images. Intelligent Systems with Applications, 14, p.200081.
 
 ## Example input data
 
